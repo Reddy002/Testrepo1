@@ -12,7 +12,7 @@ namespace WebApplication1
 {
 	public class Program
 	{
-		//Test comment added
+		
 		public static void Main(string[] args)
 		{
 			CreateWebHostBuilder(args).Build().Run();
